@@ -1,5 +1,5 @@
 {
-  "name": "201-lesson11-challenge2-home-news-part-4",
+  "name": "Home Town News",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": ""
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "Amy Spencer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "",
   "devDependencies": {
     "serve": "^11.2.0"
   }
